@@ -1,0 +1,9 @@
+/home/abhi/ros2_ws/src/turtle_controller/build/CMakeFiles/uninstall.dir
+/home/abhi/ros2_ws/src/turtle_controller/build/CMakeFiles/turtle_controller_uninstall.dir
+/home/abhi/ros2_ws/src/turtle_controller/build/CMakeFiles/test.dir
+/home/abhi/ros2_ws/src/turtle_controller/build/CMakeFiles/edit_cache.dir
+/home/abhi/ros2_ws/src/turtle_controller/build/CMakeFiles/rebuild_cache.dir
+/home/abhi/ros2_ws/src/turtle_controller/build/CMakeFiles/list_install_components.dir
+/home/abhi/ros2_ws/src/turtle_controller/build/CMakeFiles/install.dir
+/home/abhi/ros2_ws/src/turtle_controller/build/CMakeFiles/install/local.dir
+/home/abhi/ros2_ws/src/turtle_controller/build/CMakeFiles/install/strip.dir
